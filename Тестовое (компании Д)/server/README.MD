@@ -41,5 +41,5 @@
 
 1. Выполните команду:
    ```bash
-   docker-compose up --buildТЗ
+   docker-compose up --build
    ```
