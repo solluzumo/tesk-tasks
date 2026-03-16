@@ -4,8 +4,8 @@
 
 Клонируем репозиторий 
 ```
-git clone https://github.com/solluzumo/131125.git
-cd 131125/
+git clone https://github.com/solluzumo/test-tasks.git
+перейдите в директорию с тестовым заданием А
 ```
 
 Устанавливаем зависимости
