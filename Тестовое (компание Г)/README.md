@@ -21,8 +21,8 @@
 
 ## Запуск
 ```bash
-git clone https://github.com/solluzumo/testtask5.git
-cd testtask5
+git clone https://github.com/solluzumo/test-tasks.git
+перейдите в директорию с тестовым заданием Г
 docker compose -f testing.docker-compose.yml build --no-cache
 docker compose -f testing.docker-compose.yml up -d
 ```
